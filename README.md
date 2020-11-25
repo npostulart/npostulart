@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am **Niklas Postulart** working as **Frontend Teach Lead @ [u+i interact](https://uandi.com)**. I am a **Fullstack Developer** skilled in **Vue, NodeJS, PHP, MySQL, Docker, User Experience and Accessibility**.
+I am **Niklas Postulart** working as **Frontend Tech Lead @ [u+i interact](https://uandi.com)**. I am a **Fullstack Developer** skilled in **Vue, NodeJS, PHP, MySQL, Docker, User Experience and Accessibility**.
 
 **[Blog](https://niklaspostulart.de)**
 
